@@ -77,10 +77,7 @@ Password: demo123
 - **React Icons** - Librería de iconos
 - **React Toastify** - Sistema de notificaciones
 
-### **Formularios y Validación**
-- **React Hook Form** - Manejo de formularios
-- **Yup** - Esquemas de validación
-- **@hookform/resolvers** - Integración Yup + RHF
+
 
 ### **Desarrollo y Build**
 - **Create React App** - Configuración y build tools
